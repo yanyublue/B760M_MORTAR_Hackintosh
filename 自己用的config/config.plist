@@ -397,6 +397,7 @@
                     <string></string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
+                        <string>Contents/Info.plist</string>
                 </dict>
             </array>
             <key>Block</key>
